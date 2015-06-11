@@ -1,0 +1,68 @@
+
+
+body {
+
+	background-color: white;
+	color: black;
+}
+
+#nav-header {
+background-color: #222;
+height: 50px;
+font-size: 34px;
+font-weight: lighter;
+padding-left: 25px;
+color: #fff;
+
+}
+.center {
+  text-align: center;
+}
+
+#customer-container {
+  background-color: white;
+  width: 100%;
+}
+
+.customers img {
+  padding: 25px 0;
+  max-width: 125px;
+}
+
+
+#footer {
+	background-color: #222;
+	font-size: 18px;
+	font-weight: lighter;
+	color: white;
+	width: 100%;
+	padding: 15px;
+	margin-bottom: 20px ;
+	padding-left: 35px; 
+}
+/*
+.spacer {
+
+padding-right: 10px;
+    width: 15px;
+    background-color: #222
+}
+*/
+
+
+/* Visited links under #nav-header */
+#nav-header a, a:visited {
+  text-decoration: none;
+}
+
+.intro-content {
+	box-sizing: border-box;
+	max-width: 760px;
+	width: 100%;
+	margin: 0 auto;
+	padding:60px 20px;
+	text-align: left;
+	display: table;
+	background-color: 238, 238, 238;
+	color: black;
+}
