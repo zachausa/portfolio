@@ -6,6 +6,31 @@ body {
 	color: black;
 }
 
+.new-header {
+	background-color: #222;
+	box-shadow: inset 0 -2px 50px;
+
+font-size: 34px;
+font-weight: lighter;
+
+}
+
+.port-nav-item {
+	position: relative;
+	display: inline-block;
+	padding: 10px;
+	font-weight: 500;
+}
+
+a {
+	color: #FEFEFE;
+	font
+}
+
+.port-nav {
+	color: #FEFEFE;
+}
+
 #nav-header {
 background-color: #222;
 height: 50px;
