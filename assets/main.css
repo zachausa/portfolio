@@ -51,7 +51,8 @@ color: #fff;
 
 .customers img {
   padding: 25px 0;
-  max-width: 125px;
+  max-width: 300px;
+  max-height: 266px;
 }
 
 
