@@ -8,9 +8,9 @@ body {
 
 .new-header {
 	background-color: #222;
-	box-shadow: inset 0 -2px 50px;
 
-font-size: 34px;
+
+font-size: 28px;
 font-weight: lighter;
 
 }
@@ -20,6 +20,14 @@ font-weight: lighter;
 	display: inline-block;
 	padding: 10px;
 	font-weight: 500;
+	font-family: sans-serif;
+	font-size: 22px;
+	text-transform: uppercase;
+}
+
+.headname {
+	font-weight: 300;
+padding-right: 30%;
 }
 
 a {
@@ -31,7 +39,7 @@ a {
 	color: #FEFEFE;
 }
 
-#nav-header {
+/*#new-header {
 background-color: #222;
 height: 50px;
 font-size: 34px;
@@ -40,6 +48,9 @@ padding-left: 25px;
 color: #fff;
 
 }
+*/
+
+
 .center {
   text-align: center;
 }
@@ -83,12 +94,27 @@ padding-right: 10px;
 
 .intro-content {
 	box-sizing: border-box;
-	max-width: 760px;
+	
 	width: 100%;
 	margin: 0 auto;
 	padding:60px 20px;
-	text-align: left;
+	text-align: -webkit-center;
 	display: table;
-	background-color: 238, 238, 238;
+	background-color: lightgray;
 	color: black;
 }
+
+.intro-style h1 {
+	font-weight: 900;
+	font-family: sans-serif;
+
+}
+.intro-style h2 {
+font-family: sans-serif;
+font-size: 27px;
+font-weight: 300;
+}
+
+
+
+
