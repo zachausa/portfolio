@@ -107,6 +107,7 @@ padding-right: 10px;
 .intro-style h1 {
 	font-weight: 900;
 	font-family: sans-serif;
+	text-align: center
 
 }
 .intro-style h2 {
@@ -115,8 +116,9 @@ font-size: 27px;
 font-weight: 300;
 }
 
-#codeimages {
-	padding: 10px
+.codeimages {
+	padding: 10px;
+	text-align: center;
 }
 
 
