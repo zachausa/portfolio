@@ -119,11 +119,15 @@ font-weight: 300;
 .h2about {
 	
 }
-
+/*for the code images under about*/
 .codeimages {
 	padding: 10px;
 	text-align: center;
 	
 }
+/*for the social widgets on contact*/
+.social-links{
 
+
+}
 
