@@ -66,6 +66,9 @@ color: #fff;
   max-height: 266px;
 }
 
+.social {
+
+}
 
 #footer {
 	background-color: #222;
@@ -127,7 +130,7 @@ font-weight: 300;
 }
 /*for the social widgets on contact*/
 .social-links{
-
+padding-left: 40%;
 
 }
 
