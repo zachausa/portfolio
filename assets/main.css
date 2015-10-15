@@ -61,10 +61,10 @@ color: #fff;
 }
 
 .customers img {
-  padding: 25px 0;
-  max-width: 300px;
-  max-height: 266px;
-  border-radius: 30px;
+  padding: 4px;
+  width: 180px;
+  max-height: 165px;
+  border-radius: 25px;
 }
 
 .social {
